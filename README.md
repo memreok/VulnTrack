@@ -12,14 +12,14 @@ VulnTrack, yazılım geliştirme ekipleri veya siber güvenlik birimleri için t
 
 ## 📋 İçindekiler
 
-- [Öne Çıkan Özellikler](#-öne-çıkan-özellikler)
-- [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
-- [Kurulum Adımları](#-kurulum-adımları)
-- [Kullanım](#-kullanım)
-- [Ekran Görüntüleri](#-ekran-görüntüleri)
+- [Öne Çıkan Özellikler](#öne-çıkan-özellikler)
+- [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
+- [Kurulum Adımları](#kurulum-adımları)
+- [Kullanım](#kullanım)
+- [Ekran Görüntüleri](#ekran-görüntüleri)
 
 
-## ✨ Öne Çıkan Özellikler
+##  Öne Çıkan Özellikler
 
 -   **Detaylı Zafiyet Kaydı:** Güvenlik açıklarını tüm detaylarıyla (açıklama, etki, çözüm önerisi vb.) kaydedin ve yönetin.
 -   **Durum ve Öncelik Takibi:** Her zafiyetin önem derecesini (Kritik, Yüksek, Orta, Düşük) ve durumunu (Yeni, İnceleniyor, Kapatıldı) takip edin.
@@ -28,14 +28,14 @@ VulnTrack, yazılım geliştirme ekipleri veya siber güvenlik birimleri için t
 -   **İş Birliği için Yorumlar:** Her bir zafiyet kaydı altında ekip üyelerinin yorumlar ekleyerek iletişim kurmasını sağlayın.
 -   **Aktivite Kaydı (Activity Log):** Bir zafiyet üzerinde yapılan tüm önemli değişiklikleri (oluşturulma, durum değişikliği, yorum ekleme vb.) geçmişe dönük olarak izleyin.
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 -   **Backend:** PHP 8.x, Laravel 10.x
 -   **Veritabanı:** MySQL
 -   **Frontend:** TailwindCSS, JavaScript
 -   **Paket Yöneticisi:** Composer
 
-## 🚀 Kurulum Adımları
+##  Kurulum Adımları
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
@@ -94,13 +94,13 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 8.  Uygulamaya `http://127.0.0.1:8000` adresinden erişebilirsiniz.
 
-## 🕹️ Kullanım
+##  Kullanım
 
 Uygulamayı başlattıktan sonra, yeni kullanıcılar oluşturabilir, güvenlik açıkları ekleyebilir ve bunları yönetmeye başlayabilirsiniz.
 
 
 
-## 🖼️ Ekran Görüntüleri
+## Ekran Görüntüleri
 
 ![img1](assets/ss1.png)
 
